@@ -11,5 +11,5 @@ List of fiddles for solving algorithm puzzles
 
 ###Black Diamond
 * Research elo rating, write an implementation of the elo rating in Javascript
-* Review sorting algorithm examples here: 
+* Review sorting algorithm examples here: http://www.sorting-algorithms.com/insertion-sort
 * Take a look at this repo that implements popular sorting from news sites in Javascript: https://github.com/clux/decay
