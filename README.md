@@ -6,8 +6,6 @@ List of fiddles for solving algorithm puzzles
 * **simple search algorithm**: (same as above)
 * **simple ranking algorithm**: http://jsfiddle.net/cahlan/jLW75/
 * **ranking algorithm**: (scores and weights): http://jsfiddle.net/cahlan/D8Ytu/
-* **position algorithm**: http://codepen.io/cahlan/pen/cuBat
-* **collision detection**: http://codepen.io/cahlan/pen/cEpKq
 
 ###Black Diamond
 * Research elo rating, write an implementation of the elo rating in Javascript
